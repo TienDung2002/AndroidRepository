@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="Full_name">Họ và tên: %s</string>
+    <string name="Cur_age">Tuổi: %d</string>
+    <string name="Cur_gender">Giới tính: %s</string>
+</resources>
